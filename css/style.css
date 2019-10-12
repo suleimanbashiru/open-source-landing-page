@@ -13,3 +13,24 @@ body{
 {
     background-color: #97ccc1;
 }
+.khadamat-2
+{
+color:#fff;
+display: inline-block;
+margin-right: 10px;
+}
+.khadamat
+{
+    background-color: #17a2b8;
+}
+.khadamat-3
+{
+   border: 1px solid #148a9c;
+   border-radius: 15px;
+   margin-bottom: 30px;
+   box-shadow: 2px 2px 2px 2px #15889aeb;
+   height: 165px;
+}
+.khadamat-3 img {
+    max-width: 120px;
+}
