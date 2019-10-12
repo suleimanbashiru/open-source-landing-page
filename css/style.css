@@ -1,12 +1,22 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url(../fonts/Vazir.eot) format("eot"), url(../fonts/Vazir.woff) format("wofff"), url(../fonts/Vazir.ttf) format("truetype");
+}
+
 body{
     margin: 0;
     text-align: right;
     direction: rtl;
-    padding-top: 75px;
+    padding-top: 75px; 
+    font-family: Vazir;
 }
+
+
+
 .section{
     padding: 10px 0;
 }
+
 #intro{
     height: calc(100vh - 75px);
 }
