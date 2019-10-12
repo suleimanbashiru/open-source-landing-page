@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    text-align: right;
+    direction: rtl;
+}
+.section{
+    padding: 10px 0;
+}
+#intro{
+    height: 100vh;
+}
