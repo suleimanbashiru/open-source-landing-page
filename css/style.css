@@ -2,10 +2,20 @@ body{
     margin: 0;
     text-align: right;
     direction: rtl;
+    padding-top: 75px;
 }
 .section{
     padding: 10px 0;
 }
 #intro{
-    height: 100vh;
+    height: calc(100vh - 75px);
+}
+
+.img_slider{
+    width: 100%;
+    height: calc(100vh - 75px);
+}
+.section-1
+{
+    background-color: #97ccc1;
 }
