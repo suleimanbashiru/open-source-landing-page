@@ -49,3 +49,32 @@ font-size: 1.4rem;
 .khadamat-3 img {
     max-width: 120px;
 }
+@media (max-width:720px){
+    #intro{
+        height: auto;
+    }
+    .slick-slide img{
+        height: auto;
+    }
+    .dropdown-menu{
+        text-align: right;
+    }
+    .section img{
+        width: 100%;
+    }
+    .khadamat-3{
+        text-align: center;
+        height: 285px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .khadamat-3 img{
+        margin: 0 auto;
+    }
+    .khadamat-2{
+        display: block;
+        margin-top: 10px;
+    }
+
+}
