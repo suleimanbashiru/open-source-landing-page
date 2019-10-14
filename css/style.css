@@ -15,6 +15,10 @@ body{
     padding: 10px 0;
 }
 
+.dropdown-menu{
+    text-align: right;
+}
+
 #intro{
     height: calc(100vh - 75px);
 }
@@ -55,9 +59,6 @@ font-size: 1.4rem;
     }
     .slick-slide img{
         height: auto;
-    }
-    .dropdown-menu{
-        text-align: right;
     }
     .section img{
         width: 100%;
